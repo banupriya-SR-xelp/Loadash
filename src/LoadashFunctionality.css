@@ -52,10 +52,13 @@ tr:nth-child(even) {
   justify-content: center;
 }
 .noData {
-  font-size: 20px;
+  font-size: 58px;
   color: #0eb1e2;
   text-align: center;
+  position: absolute;
   font-family: bold;
+  margin: 20px 0px;
+  width: 900px;
 }
 .selectedButton {
   border: 1px #222222 solid;
